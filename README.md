@@ -9,3 +9,7 @@
   3  wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh &amp;&amp; chmod +x ssr.sh &amp;&amp; bash ssr.sh
   
   
+  
+  免费  https://free-ss.site/
+  
+  
